@@ -26,15 +26,16 @@ Next j
 This also allowed me to remove the results output from the main loop and put it into an isolated loop. I was also able to add the formatting into this macro, while it was seperate previously. Even with this additional task the time to complete was reduced significantly, as seen below.
 
 From my tests:
-Old 2017 Macro -- .6015625 seconds
-New 2017 Macro -- .109375 seconds
-Improvement of 18%
+
+- Old 2017 Macro -- .6015625 seconds
+- New 2017 Macro -- .109375 seconds
+- Improvement of 18%
 
 ![2017 Macro Performance](https://github.com/Olibabba/Week2_Excel_HW/blob/main/resources/VBA_Challenge_2017.png)
 
-Old 2018 Macro -- .6015625
-New 2018 Macro -- .125
-Improvement of 21%
+- Old 2018 Macro -- .6015625
+- New 2018 Macro -- .125
+- Improvement of 21%
 ![2018 Macro Performance](https://github.com/Olibabba/Week2_Excel_HW/blob/main/resources/VBA_Challenge_2018.png)
 
 
