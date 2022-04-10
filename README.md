@@ -14,7 +14,7 @@ One thing became imedietly clear while comaring the 2017 green stocks to the 201
 
 I was successfully able to increase the efficiancy of the macro by around 20%. This was accomplished by removing a nested "for loop" and completing the same tasks in one loop. 
 
-![New Code/Old Code]()
+![New Code/Old Code](https://github.com/Olibabba/Week2_Excel_HW/blob/main/resources/Screen%20Shot%202022-04-09%20at%2010.12.54%20PM.png)
 
 I created two new arrays, tickerIndex() and tickerVolume(), and used these to remove a nested loop. Part of this process meant running a quick loop in initialize all of the tickerVolumne() values to 0:
 ```
