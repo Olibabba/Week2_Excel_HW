@@ -12,7 +12,7 @@ One thing became imedietly clear while comaring the 2017 green stocks to the 201
 
 ### Code Refactoring
 
-I was successfully able to increase the efficiancy of the macro by around 20%. This was accomplished by removing a nested "for loop" and completing the same tasks in one loop. 
+I was successfully able to increase the efficiancy of the macro by around 20%. This was accomplished by removing a nested "for loop" and completing the same tasks in one loop. Full comparison here:
 
 ![New Code/Old Code](https://github.com/Olibabba/Week2_Excel_HW/blob/main/resources/Screen%20Shot%202022-04-09%20at%2010.12.54%20PM.png)
 
@@ -29,6 +29,7 @@ From my tests:
 Old 2017 Macro -- .6015625 seconds
 New 2017 Macro -- .109375 seconds
 Improvement of 18%
+
 ![2017 Macro Performance](https://github.com/Olibabba/Week2_Excel_HW/blob/main/resources/VBA_Challenge_2017.png)
 
 Old 2018 Macro -- .6015625
